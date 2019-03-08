@@ -1,37 +1,39 @@
+
 body {
-background-color: black
+  font-size: 14px;
+  background-color: white
 }
-.wrapper{
-  height:400px;
+
+.container{
+ margin: 0 auto;
+
+}
+
+
+.inhoud{
+
 
 }
 
 h1 {
-font-family: monospace;
-color: white;
-font-size: 80px;
-margin-left: 50px;
+  background-color: grey;
+
+
+}
+h2 {
+  background-color: beige;
+
 
 }
 
-p{
-  color:white;
-  font-family:monospace;
-  font-size: 25px;
-  margin-left: 60px;
-}
-
-.worker{
-  width: 200px;
-  padding-top: 100px;
-  margin-top: 200px;
-  float:left;
-}
-.workerdiv p{
-  font-style: italic;
-}
+.footer{
+height: 400px;
+  background-image: url(coffee.jpeg);
+  background-repeat: no-repeat;
+background-position: center;
 
 
-.button{
-  margin-top: 250px;
+
+
+
 }
